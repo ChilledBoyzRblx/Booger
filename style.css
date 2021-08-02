@@ -1,0 +1,72 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1607853202273-797f1c22a38e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29uc29sZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+}
+.review_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+    display:inline-block;
+}
+.review_head i{
+    float:right;
+}
+.game_text span{
+    color:aqua;
+}
+#GTP{
+    font-family:cursive;
+    color:blanchedalmond;
+}
+.game_mainDiv{
+    border:1px solid;
+    border-color:aqua;
+    padding-left:0px;
+    padding-right:0px;
+    float: none;
+}
+.game_mainDiv img{
+    width:100%;
+}
+.text-success{
+    font-size:24px;
+    font-family:fantasy;
+    text-align:center;
+    color:antiquewhite;
+}
+#rtitle{
+    font-family:cursive;
+    color:aliceblue;
+}
+#titlenews{
+    color:white;
+    font-family: cursive;
+}
+#news1title{
+    font-family:fantasy;
+}
+#news1real{
+    font-size:20px;
+}
+a{
+    font-size:20px;
+}
+#news2title{
+    font-family:cursive;
+}
+#news2real{
+    font-size:20px;
+}
+#madebylol{
+    font-family:monospace;
+    color:bisque;
+}
+#twitters{
+    font-size:20px;
+    color:aquamarine;
+}
+#robloxs{
+    font-size:20px;
+    color:aquamarine;
+}
